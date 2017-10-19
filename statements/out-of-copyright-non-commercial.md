@@ -1,7 +1,5 @@
 # Out of copyright - non commercial reuse
 
- 
-
 [PD][NC] Out of copyright - non commercial reuse
 
 This object has been digitized in a public-private partnership. As part of this partnership, the partners have agreed to limit commercial uses of this digital representation of the object by third parties.
