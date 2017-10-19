@@ -2,6 +2,48 @@ Located at: [https://pro.europeana.eu/page/the-data-exchange-agreement](https://
 
 # Europeana Data Exchange Agreement
 
+## Parties:
+
+### Europeana Foundation (formerly EDL Foundation)
+
+Address:
+
+Phone:
+
+URL:
+
+Name of authorised Person:
+
+Title/Role in organisation:
+
+Work Phone:
+
+Work Email:
+
+**Hereafter named: ‘Europeana’** 
+
+And
+
+### Name of organisation: 
+
+Address:
+
+Phone:
+
+Email:
+
+URL:
+
+Name of authorised Person: 
+
+Title/Role in organisation:
+
+Work Phone:
+
+Work Email:
+
+**Hereafter named: ‘Data Provider’**
+
 **whereas**
 
 1. Europeana has the objective to provide access to Europe’s cultural and scientific heritage;
