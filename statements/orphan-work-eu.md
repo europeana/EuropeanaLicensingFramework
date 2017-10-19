@@ -1,3 +1,5 @@
+Located at: [https://www.europeana.eu/rights/orphan-work-eu/](https://www.europeana.eu/rights/orphan-work-eu/)
+
 # Orphan work
 
 [?] Orphan work

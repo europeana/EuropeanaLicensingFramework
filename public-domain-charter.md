@@ -1,3 +1,5 @@
+Located at: [https://www.europeana.eu/rights/public-domain-charter.html](https://www.europeana.eu/rights/public-domain-charter.html)
+
 # Public Domain Charter
 
 * **Europeana, Europe's digital library, museum and archive, belongs to the public and must represent the public interest.**

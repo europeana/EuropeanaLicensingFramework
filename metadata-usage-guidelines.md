@@ -1,3 +1,5 @@
+Located at [http://www.europeana.eu/portal/data-usage-guide.html](http://www.europeana.eu/portal/data-usage-guide.html)
+
 # Europeana Usage Guidelines for Metadata
 
 These usage guidelines are based on goodwill, they are not a legal contract but Europeana requests that you follow these guidelines if you use metadata from Europeana.

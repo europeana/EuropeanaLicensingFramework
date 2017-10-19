@@ -1,3 +1,5 @@
+Located at: [https://www.europeana.eu/rights/contributions.html](https://www.europeana.eu/rights/contributions.html)
+
 # Europeana Terms for User Contributions
 
 This document contains the terms applicable to Users who contribute Content and Metadata to Websites (including but not limited to Europeana.eu) operated by the Europeana Foundation. As a User, you should be aware that the Europeana Foundation strives to make all Content and Metadata available for re-use with a minimum of restrictions.

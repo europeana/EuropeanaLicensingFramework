@@ -1,3 +1,5 @@
+Located at: [http://www.europeana.eu/portal/rights/public-domain.html](http://www.europeana.eu/portal/rights/public-domain.html)
+
 # Europeana Usage Guidelines for public domain works
 
 **Give credit where credit is due.** When you use a public domain 

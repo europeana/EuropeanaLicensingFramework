@@ -1,3 +1,5 @@
+Located at: [http://www.europeana.eu/rights/rr-p/](http://www.europeana.eu/rights/rr-p/)
+
 # Rights Reserved - Paid Access
 
 [C] Rights Reserved - Paid Access

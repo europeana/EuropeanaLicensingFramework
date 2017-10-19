@@ -1,3 +1,5 @@
+Located at: [http://pro.europeana.eu/available-rights-statements](http://pro.europeana.eu/available-rights-statements)
+
 # Available rights statements
 
 Rights statements express the copyright status of a Digital Object, as well as information about how you can access and re-use the objects. Europeana supports 14 rights statements.

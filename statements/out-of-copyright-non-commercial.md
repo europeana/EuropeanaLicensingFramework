@@ -1,3 +1,5 @@
+Located at: [https://www.europeana.eu/rights/out-of-copyright-non-commercial/](https://www.europeana.eu/rights/out-of-copyright-non-commercial/)
+
 # Out of copyright - non commercial reuse
 
 [PD][NC] Out of copyright - non commercial reuse

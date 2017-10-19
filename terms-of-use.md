@@ -1,3 +1,5 @@
+Located at: [https://www.europeana.eu/rights/terms.html](https://www.europeana.eu/rights/terms.html)
+
 # Europeana Terms of Use
 
 The Europeana.eu website is run by the Europeana Foundation and gives access to a wide range of digitised cultural heritage from across Europe and beyond. This material is provided to Europeana by a large number of contributing institutions and organisations. Europeana strives to make all resources on this website available for re-use. As part of this, all metadata (textual information on digitised cultural heritage) on the site are published without any restrictions on re-use. Most other material, such as the previews to digitised cultural heritage, is clearly labelled with rights statements that indicate if and under which conditions it can be re-used.

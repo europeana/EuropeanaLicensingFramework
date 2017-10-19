@@ -1,3 +1,5 @@
+Located at: [http://www.europeana.eu/rights/rr-f/](http://www.europeana.eu/rights/rr-f/)
+
 # Rights Reserved - Free Access
 
 [C] Rights Reserved - Free Access
