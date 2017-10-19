@@ -1,3 +1,5 @@
+Located at: [https://www.europeana.eu/rights/api.html](https://www.europeana.eu/rights/api.html)
+
 # Europeana API Terms of Use
 
 ## Definitions:
