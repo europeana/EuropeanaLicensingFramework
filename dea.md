@@ -4,7 +4,7 @@ Located at: [https://pro.europeana.eu/page/the-data-exchange-agreement](https://
 
 ## Parties:
 
-### Europeana Foundation (formerly EDL Foundation)
+### Europeana Foundation
 
 Address:
 
