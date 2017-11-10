@@ -64,7 +64,7 @@ Work Email:
 * **Council of Content Providers and Aggregators:** The Council of Europeana, as established in accordance with article 12 of Europeana’s articles of association.
 * **Effective Date:** The date on which this agreement commences, in accordance with article 5, paragraph 1.
 * **Europeana.eu:** The Europeana website, its data and its machine interfaces, all without necessarily being disclosed under URL europeana.eu.
-* **Europeana Data Use Guidelines:** Non-binding guidelines for users of data published by Europeana, on the Effective Date made available at [http://www.europeana.eu/portal/data-usage-guide.html](http://www.europeana.eu/portal/data-usage-guide.html).
+* **Europeana Data Use Guidelines:** Non-binding guidelines for users of data published by Europeana, on the Effective Date made available at [https://www.europeana.eu/portal/en/rights/metadata.html](https://www.europeana.eu/portal/en/rights/metadata.html).
 * **Intellectual Property Rights:** Intellectual property rights including, but not limited to copyrights, related (or neighbouring) rights and database rights.
 * **Metadata:** textual information (including hyperlinks) that may serve to identify, discover, interpret and/or manage Content.
 * **Metadata Specifications:** The most recent version of the Metadata specifications published by Europeana and available at [http://europeana.eu/schemas/](http://europeana.eu/schemas/) on the Effective Date
