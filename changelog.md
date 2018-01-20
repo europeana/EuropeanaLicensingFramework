@@ -15,4 +15,4 @@ Launch of the the Europeana Licensing Framework with 12 rights statements that c
 * [Rights Reserved - Free Access ](https://www.europeana.eu/rights/rr-f/)
 * [Rights Reserved - Paid Access](https://www.europeana.eu/rights/rr-p/)
 * [Rights Reserved - Restricted Access](https://www.europeana.eu/rights/rr-r/)
-* [Unknown copyright status []Unknown copyright status ](https://www.europeana.eu/rights/unknown/)
+* [Unknown copyright status](https://www.europeana.eu/rights/unknown/)
