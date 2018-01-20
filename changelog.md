@@ -1,6 +1,6 @@
 # Europeana Licensing Framework changelog
 
-This document provides and overview of the development of the Europeana Licensing Framework. Statements marked with an asterisk (*) can only be used after prior consultation with the ingestion team. Collections that predominantly consist of digital objects labeled with a statements marked with two asterisks (**) receive extra scrutiny by the ingestion team.   
+This document provides and overview of the development of the Europeana Licensing Framework. Statements marked with an asterisk (*) can only be used after prior consultation with the ingestion team. 
 
 ## Transition to rightsstatements.org 2016-11-11
 
