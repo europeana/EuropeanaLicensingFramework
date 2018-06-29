@@ -126,7 +126,7 @@ Work Email:
 
 ## Article 8 Assignment 
 
-1. Conditional only to the appointment of a new operator of the current Europeana Foundation activities \[due to a transfer of undertakings in which all assets and liabilities of the Europeana Foundation will be transferred to a new operator], Data Partner hereby provides its explicit and unconditional consent to Europeana to assign all rights and obligations under this agreement to the newly appointed operator.
+1. Conditional only to the appointment of a new operator of the current Europeana Foundation activities, Data Partner hereby provides its explicit and unconditional consent to Europeana to assign all rights and obligations under this agreement to the newly appointed operator.
 
 ## Article 9 Miscellaneous
 
