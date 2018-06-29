@@ -98,10 +98,9 @@ Work Email:
 
 ## Article 5 Use of Digital Objects
 
-1. If the Matadata provided to Europeana contins direct links to the asscoaiated Digital Objects Europeana will provide visiors of Europeana.eu the ability to view such Digital Objects without leaving Europeana.eu
-2. Other than in situations as described in paragraph 3 and 4 of this article Europeana will not store copies of the Digital Objects.
-3. Europeana is entitled to Digital Objects referenced in the Metadata provided by the Data Partner in accordance with the conditions established by the rights statement contained in the Metadata associated with the Digital Objects.
-4. Europeana and Data partner may seperately agree on additional uses of Content held by the Data Partner. 
+1. If the Metadata provided to Europeana contins direct links to the associated Digital Objects, Europeana will provide visiors of Europeana.eu the ability to view such Digital Objects without leaving Europeana.eu
+2. Other than in situations as described in paragraph 3 of this article Europeana will not store copies of the Digital Objects.
+3. Europeana is entitled to use Digital Objects referenced in the Metadata provided by the Data Partner in accordance with the conditions established by the rights statement contained in the Metadata associated with the Digital Objects. 
 
 ## Article 6 Liability and Notice and take Down
 
