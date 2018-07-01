@@ -65,6 +65,7 @@ Work Email:
 * **Effective Date:** The date on which this agreement commences, in accordance with article 5, paragraph 1.
 * **Europeana.eu:** The Europeana website, its data and its machine interfaces, all without necessarily being disclosed under URL europeana.eu.
 * **Europeana Data Use Guidelines:** Non-binding guidelines for users of data published by Europeana, on the Effective Date made available at [http://www.europeana.eu/portal/data-usage-guide.html](http://www.europeana.eu/portal/data-usage-guide.html).
+* **Europeana Network Association:** The association incorporated under the same name made up of the members of the Europeana Network.
 * **Intellectual Property Rights:** Intellectual property rights including, but not limited to copyrights, related (or neighbouring) rights and database rights.
 * **Metadata:** textual information (including hyperlinks) that may serve to identify, discover, interpret and/or manage Content.
 * **Metadata Specifications:** The most recent version of the Metadata specifications published by Europeana and available at [http://europeana.eu/schemas/](http://europeana.eu/schemas/) on the Effective Date
@@ -135,4 +136,4 @@ Work Email:
 3. This agreement may be supplemented, amended or modified only by the mutual agreement of the parties. Any modification proposed by Europeana must be notified to the Data Partner in writing. The Data Partner shall be allowed at least two months from the date of reception of the notice to accept the new agreement. If the modifications are not accepted by the Data Partner in writing within the allowed period, the modifications are presumed to have been rejected. If the proposed modifications are rejected by the Data Partner, Europeana has the right to terminate this agreement against 31 December of any year, with a one month notice.
 4. This agreement is drawn up in English, which language shall govern all documents, notices, meetings, arbitral proceedings and processes relative thereto.
 5. This agreement shall be construed in accordance with and governed by the laws of The Netherlands.
-6. All disputes arising out of or in connection with this agreement, which cannot be solved through consensus, shall be referred to the Europeana Network Association for mediation. The outcome of the mediation process will be binding on the parties.
+6. All disputes arising out of or in connection with this agreement, which cannot be solved through consensus, shall be referred to the management board of the Europeana Network Association for mediation. The outcome of the mediation process will be binding on the parties.
