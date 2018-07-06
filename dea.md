@@ -77,7 +77,7 @@ Work Email:
 ## Article 2 Provision of Metadata and Thumbnails
 
 1. Notwithstanding the minimum requirements of paragraphs 2 and 3 of this article, it is in the discretion of the Data Partner to decide which Metadata and Thumbnails it provides to Europeana, including the right to submit only Metadata and Thumbnails with regard to a part of the Content held by it or its data providers and the right to submit only a part of the Metadata and Thumbnails it has or its data providers have with regard to particular Content.
-2. The Data Partner shall submit Metadata and Thumbnails in accordance with the Metadata Specifications.
+2. The Data Partner shall submit Metadata in accordance with the Metadata Specifications.
 3. The Data Partner must make best efforts to provide Europeana with correct Metadata on the Intellectual Property Rights to the Content, including the identification of Content that is Public Domain as being Public Domain.
 4. Europeana shall ensure that future versions of the Metadata Specifications are compatible with the Metadata Specifications in place on the Effective Date. 
 5. Europeana shall collaborate with the Data Partner within thirty (30) days upon the latter’s request, for the correction, update and removal of Metadata provided by the Data Partner.
