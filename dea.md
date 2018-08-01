@@ -47,10 +47,10 @@ Work Email:
 **whereas**
 
 1. Europeana has the objective to provide access to Europe’s cultural and scientific heritage;
-2. Europeana has, for this purpose, undertaken the task of ingesting, indexing, enriching and making available descriptive Metadata, Thumbnails and Digital Objects that are part of that heritage,
+2. Europeana has, for this purpose, undertaken the task of ingesting, indexing, enriching and making available descriptive Metadata (hereafter called Metadata), Thumbnails and Digital Objects that are part of that heritage,
 3. Europeana thereby intends to benefit both the holders of these Digital Objects and the public at large;
 4. For this purpose Europeana maintains a database that includes Metadata and Thumbnails;
-5. the Data Partner has and/or can create Metadata relating to Digital Objects that are appropriate to form part of this database;
+5. the Data Partner has and/or can create Metadata relating to Content that are appropriate to form part of this database;
 6. the Data Partner is willing to make (a part of) these Metadata available for this database, under the conditions of this agreement;
 7. in some domains (such as museums) it can be difficult to differentiate clearly between Content and Metadata, and as a result whatever data is given to Europeana is called, for purposes of this agreement, Metadata; and
 8. Europeana wishes to make all Metadata in its database available for reuse to all its Data Partners and the public at large. 
