@@ -58,4 +58,3 @@ Launch of the the Europeana Licensing Framework with 12 rights statements that c
 * [Rights Reserved - Paid Access](https://www.europeana.eu/rights/rr-p/)
 * [Rights Reserved - Restricted Access](https://www.europeana.eu/rights/rr-r/)
 * [Unknown](https://www.europeana.eu/rights/unknown/)
-
