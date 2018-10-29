@@ -2,9 +2,9 @@
 
 This document provides and overview of the development of the Europeana Licensing Framework. Statements marked with an asterisk (*) can only be used after prior consultation with the ingestion team. 
 
-## Updated of the Data Exchange Agreement 2018-10-29
+## Update of the Data Exchange Agreement 2018-10-29
 
-Fowllowing a review undertaken by Europeana Foundation and Kennisland in 2017/2018 under the DSI 3 project, the DEA has been updated to better reflect the changed realities of how Europeana deals with Digital Objects. The updated version of the DEA can be found [here](https://github.com/Kennisland/EuropeanaLicensingFramework/blob/e2428290a6be33ff22ebb582de695d27a11e5c53/dea.md).
+Fowllowing a review undertaken by Europeana Foundation and Kennisland in 2017/2018 under the DSI 3 project, the Data Exchange Agreement (DEA) has been updated to better reflect the changed realities of how Europeana deals with Digital Objects. The updated version of the DEA can be found [here](https://github.com/Kennisland/EuropeanaLicensingFramework/blob/e2428290a6be33ff22ebb582de695d27a11e5c53/dea.md).
 
 ## Transition to rightsstatements.org 2016-11-11
 
