@@ -48,7 +48,7 @@ As a result of a review of the Europeana Licensing Framework two new rights stat
 
 ## Initial launch 2011-11-08
 
-Launch of the the Europeana Licensing Framework with 12 rights statements that can be used with edm:rights
+Launch of the the Europeana Licensing Framework consiting of the [Data Exchange Agreement](https://github.com/Kennisland/EuropeanaLicensingFramework/blob/763f7f4fad346ef745d581bce9ee90c2978b03ec/dea.md) and the following 12 rights statements that can be used with edm:rights
 
 * [Creative Commons Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/)
 * [Creative Commons Zero Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
