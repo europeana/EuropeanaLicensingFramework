@@ -2,6 +2,10 @@
 
 This document provides and overview of the development of the Europeana Licensing Framework. Statements marked with an asterisk (*) can only be used after prior consultation with the ingestion team. 
 
+## Updated of the Data Exchange Agreement 2018-10-29
+
+Fowllowing a review undertaken by Europeana Foundation and Kennisland in 2017/2018 under the DSI 3 project, the DEA has been updated to better reflect the changed realities of how Europeana deals with Digital Objects. The updated version of the DEA can be found [here](https://github.com/Kennisland/EuropeanaLicensingFramework/blob/e2428290a6be33ff22ebb582de695d27a11e5c53/dea.md).
+
 ## Transition to rightsstatements.org 2016-11-11
 
 The old Europeana rights statements are retired and replaced by their [rightsstatements.org](http://www.rightsstatements.org) equivalents. The Rights Reserved Paid Access statement is completely retired. In addition two new rights statements are added to the list of available rights statements: InC-EDU and NoC-OKLR. ([see announcement on pro.europeana.eu](https://pro.europeana.eu/post/they-re-here-new-rights-statements-available-now))
